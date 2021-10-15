@@ -1,4 +1,4 @@
-# Quick Sort Using Divide and Algorithm.
+# Quick Sort Using Divide and Conquer Algorithm.
 ## Using C#
 
 
